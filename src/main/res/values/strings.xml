@@ -1,0 +1,6 @@
+<resources>
+    <string name="app_name">NeonMeteors</string>
+    <string name="game_over">Game Over!</string>
+    <string name="menuButton">Menu</string>
+    <string name="play_againButton">Play again</string>
+</resources>

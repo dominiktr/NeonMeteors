@@ -1,0 +1,42 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+
+    <style name="bigText">
+        <item name="android:textColor">#ffffff</item>
+        <item name="android:layout_marginTop">100dp</item>
+        <item name="android:layout_marginBottom">100dp</item>
+        <item name="android:layout_marginLeft">50dp</item>
+        <item name="android:layout_marginRight">50dp</item>
+        <item name="android:textSize">50sp</item>
+        <item name="layout_constraintBottom_toBottomOf">parent</item>
+        <item name="layout_constraintEnd_toEndOf">parent</item>
+        <item name="layout_constraintStart_toStartOf">parent</item>
+        <item name="layout_constraintTop_toTopOf">parent</item>
+        <item name="layout_constraintHorizontal_bias">0.49</item>
+        <item name="layout_constraintVertical_bias">0.267</item>
+
+    </style>
+
+    <style name="button">
+        <item name="android:background">@drawable/rounded_button</item>
+        <item name="android:width">120dp</item>
+        <item name="android:textSize">16sp</item>
+        <!--<item name="android:shadowColor">#00FEFE</item>-->
+        <item name="android:shadowDx">10</item>
+        <item name="android:shadowDy">10</item>
+        <item name="android:shadowRadius">20</item>
+        <item name="android:textColor">#ffffff</item>
+        <item name="android:layout_marginLeft">50dp</item>
+        <item name="android:layout_marginRight">50dp</item>
+        <item name="android:layout_marginTop">424dp</item>
+
+
+    </style>
+
+    <style name="authorText">
+        <item name="android:textColor">#fff</item>
+        <item name="android:textSize">14sp</item>
+
+    </style>
+
+</resources>
