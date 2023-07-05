@@ -1,5 +1,5 @@
 # NeonMeteors
- Android game
+ A game for Android that involves shooting meteors. As you earn more points, the time speeds up, increasing the level of difficulty.
 <br>
 <br>
 <img src="https://user-images.githubusercontent.com/107572642/173932660-5af4e207-cf2b-40e3-a39f-7ecf488543d6.png" height=600><br>
